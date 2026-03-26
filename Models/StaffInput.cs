@@ -17,5 +17,7 @@ public class StaffModel
 
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
+    public string FullName => $"{FirstName} {LastNameInitial}";
+
 
 }
