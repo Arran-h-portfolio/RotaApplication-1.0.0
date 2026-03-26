@@ -1,5 +1,7 @@
 namespace RotaApplication.Models;
 
+// Represents a staff member with personal details and scheduling information.
+
 
 public class StaffModel
 {
