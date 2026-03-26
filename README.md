@@ -5,7 +5,7 @@ Build a windows-only local desktop application using C# backend
 and HTML frontend for employers to manage staff rotas 
 efficiently, freeing up more time for other tasks and potentially 
 saving money. The app will allow the input of staff members, staff 
-availability, diAerentiates between managers and regular staff 
+availability, differentiates between managers and regular staff 
 members. 
 Aim to automatically generate rotas into pdf format with 
 constraints; no overlapping shifts, manager coverage, max 5days 
