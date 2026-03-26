@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Automated-rota-app\\RotaApplication 1.0.0\\RotaApplication 1.0.0.csproj": {}
+    "E:\\Automated-rota-app\\RotaApplication\\RotaApplication 1.0.0.csproj": {}
   },
   "projects": {
-    "E:\\Automated-rota-app\\RotaApplication 1.0.0\\RotaApplication 1.0.0.csproj": {
+    "E:\\Automated-rota-app\\RotaApplication\\RotaApplication 1.0.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Automated-rota-app\\RotaApplication 1.0.0\\RotaApplication 1.0.0.csproj",
+        "projectUniqueName": "E:\\Automated-rota-app\\RotaApplication\\RotaApplication 1.0.0.csproj",
         "projectName": "RotaApplication 1.0.0",
-        "projectPath": "E:\\Automated-rota-app\\RotaApplication 1.0.0\\RotaApplication 1.0.0.csproj",
+        "projectPath": "E:\\Automated-rota-app\\RotaApplication\\RotaApplication 1.0.0.csproj",
         "packagesPath": "C:\\Users\\arran\\.nuget\\packages\\",
-        "outputPath": "E:\\Automated-rota-app\\RotaApplication 1.0.0\\obj\\",
+        "outputPath": "E:\\Automated-rota-app\\RotaApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
