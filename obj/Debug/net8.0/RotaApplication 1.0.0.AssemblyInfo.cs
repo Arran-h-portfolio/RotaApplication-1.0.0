@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RotaApplication 1.0.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273123fe78792864207a509cb2da5e39e29a9412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5352a05b2ae6ae0d931a87add70c63fb2e5492d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RotaApplication 1.0.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RotaApplication 1.0.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
